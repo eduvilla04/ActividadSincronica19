@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <section className="portada">
       <p className="sobrelinea">Módulo 9 · Lección 6</p>
-      <h1>Datos remotos con una copia local</h1>
+      <h1>Datos remotos con una copia local- Juan Villavicencio</h1>
       <p className="portada__texto">
         El service worker usa <code>NetworkFirst</code> para DummyJSON: intenta la red
         y, si no responde en tres segundos, devuelve la última respuesta guardada. Así
